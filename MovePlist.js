@@ -6,7 +6,6 @@ let tpsConfig = [
     "/texturepacker/games.tps",
     "/texturepacker/lobby.tps",
     "/texturepacker/signIn.tps",
-
 ]
 
 let ttConfig = [

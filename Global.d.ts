@@ -6,6 +6,7 @@ interface __requestObj {
     reconnect?: boolean,
     url?: string
 }
+
 /**
  * 网络请求库
  */

@@ -1,0 +1,82 @@
+{
+    "Effects": [],
+    "Lobby": [
+        "AlertAgree",
+        "OffLine",
+        "Lobby",
+        "Match",
+        "Shop",
+        "Skin",
+
+        "Notice",
+
+        "Sign",
+
+        "GM",
+
+        "OutVideo",
+
+        "Desk",
+        
+        "items/skinItem",
+        "items/ShopItem"
+    ],
+    "Game": [
+        "Game",
+
+        "AlertVideo",
+        "GamePropUI",
+
+        "TTShareVideo",
+
+        "bullet/Bullet",
+
+        "eff/eff_Rage",
+        "eff/eff_chongci",
+        "eff/eff_Disturb",
+        "eff/eff_yun",
+        "eff/eff_Atk",
+        "eff/eff_Light",
+        "eff/eff_LevelUp",
+        
+        
+        "game/GameOver",
+        "game/GameLevel",
+        "game/GameBack",
+        "game/GameRevive",
+
+        "player/GamePlayer",
+        "player/GameBoss",
+
+        "map/MapItem",
+        "map/mapBgItem",
+        
+        
+
+        "gameItem/GameBedItem",
+        "gameItem/GameBossHpItem",
+        
+        "gameItem/GameDoorItem",
+        "gameItem/GameCreateDoorItem",
+        
+        "gameItem/GameMapItem",
+        "gameItem/GamePropItem",
+        "gameItem/GameSpringItem",
+        "gameItem/GameLightItem",
+        "gameItem/GameKDoorItem",
+        "gameItem/GameSaveItem",
+
+        "gameItem/GameAttkItem",
+        "gameItem/GameDefenseItem",
+        
+        "gameItem/GameSmokeItem",
+        
+        "item/finger",
+        "item/AddGoldItem",
+        "item/PropItem",
+        "item/LongItem",
+        "item/KTip",
+        "item/HeadItem"
+        
+    ]
+}

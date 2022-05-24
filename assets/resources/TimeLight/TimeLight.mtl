@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.Material",
+  "_name": "TimeLight",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "da2d9034-1af4-4d30-8365-ae27eef1e542"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true
+      },
+      "props": {
+        "speed": 1
+      }
+    }
+  }
+}

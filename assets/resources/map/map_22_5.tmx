@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="9" height="9" tilewidth="90" tileheight="90" infinite="0" nextlayerid="4" nextobjectid="19">
+ <tileset firstgid="1" name="1" tilewidth="90" tileheight="90" tilecount="100" columns="10">
+  <image source="5.png" trans="ff00ff" width="900" height="900"/>
+ </tileset>
+ <layer id="1" name="地形" width="9" height="9">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYKQzFkLDtFRDDwwAuXABHg==
+  </data>
+ </layer>
+ <layer id="2" name="障碍" width="9" height="9">
+  <data encoding="base64" compression="zlib">
+   eJxjYKA/YAdiDijmJEK9Og5xfSA2gGJD6jiNLAAAlEwBCA==
+  </data>
+ </layer>
+ <objectgroup id="3" name="对象">
+  <object id="3" name="bed" x="360" y="360" width="90" height="90"/>
+  <object id="4" name="map" x="270" y="360" width="90" height="90">
+   <properties>
+    <property name="weapon" type="int" value="1"/>
+   </properties>
+  </object>
+  <object id="5" name="door" x="180" y="360" width="90" height="90">
+   <properties>
+    <property name="LorR" type="int" value="1"/>
+    <property name="motion" type="int" value="3"/>
+    <property name="rotate" type="int" value="90"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

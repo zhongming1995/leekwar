@@ -1,0 +1,110 @@
+{
+  "group-list": [
+    "default",
+    "player",
+    "game",
+    "map",
+    "bullet",
+    "skills",
+    "eff"
+  ],
+  "collision-matrix": [
+    [
+      false,
+      null,
+      null,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      null,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      null,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "excluded-modules": [
+    "PageViewIndicator",
+    "RichText",
+    "Spine Skeleton",
+    "VideoPlayer",
+    "WebView",
+    "3D",
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle",
+    "SafeArea"
+  ],
+  "last-module-event-record-time": 1653026045336,
+  "design-resolution-width": 750,
+  "design-resolution-height": 1334,
+  "fit-width": false,
+  "fit-height": true,
+  "use-project-simulator-setting": true,
+  "simulator-orientation": false,
+  "use-customize-simulator": false,
+  "simulator-resolution": {
+    "height": 1334,
+    "width": 750
+  },
+  "assets-sort-type": "name",
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "migrate-history": [
+    "cloud-function"
+  ],
+  "start-scene": "76659ef8-b3a9-4de7-a0b0-fb360c9b55fd",
+  "preview-port": 7456,
+  "clear-simulator-cache": true
+}

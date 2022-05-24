@@ -1,0 +1,195 @@
+{
+    "playerName":[ "alice","coook","gui","spring","wind","yours","world","lineer","tiger","amoni"
+        ,"winter","flow","susan","sanlan","moonlight","cindy","peter","like sleep","magic girl","happy gay","champine","queen"
+        ,"rabbit"
+        ,"cute cat","lala"],
+
+    "bossTip":[
+        "韭菜终究无法掌控自己的命运",
+        "不要你以为，我要我以为",
+        "都听我的",
+        "韭菜要具有奉献精神",
+        "不要跟我解释，我想看到结果",
+        "为什么没人去煤矿加班？",
+        "你们真是太闲了",
+        "想要富裕，就得干活",
+        "在我的煤矿里工作，是你的福气",
+        "生活本来就是一场戏剧",
+        "生活生活，韭菜生下来就得干活",
+        "你们都给我去挖煤，为我赚钱",
+        "韭菜，没有思想!成为我的工具",
+        "想反抗我？真是太天真了",
+        "想要生存下去，只有听从我的安排",
+        "为我赚钱，你难道不开心吗？",
+        "目光放长远点，只要努力",
+        "我会给你加工资的",
+        "加班是为你们好",
+        "付出一定会有回报的",
+        "我只要结果不看过程"
+    ],
+
+     "playerTip":{
+       "快捷消息":["猥琐发育，别浪！","我需要帮助！","专注发育！","放心，有我在！"],
+       "撤退":["全体撤退！"],
+       "集合":["跟我一起来！"],
+       "救援":["救救我！"]
+     },
+   
+   "playerData": [
+        {
+            "skinId": 1
+        },
+        {
+            "skinId": 2
+        },
+        {
+            "skinId": 3
+        },
+        {
+            "skinId": 4
+        },
+        {
+            "skinId": 5
+        },
+        {
+            "skinId": 6
+        },
+        {
+            "skinId": 7
+        },
+        {
+            "skinId": 8
+        },
+        {
+            "skinId": 9
+        },
+        {
+            "skinId": 10
+        },
+        {
+            "skinId": 11
+        },
+        {
+            "skinId": 12
+        },
+        {
+            "skinId": 13
+        }
+    ],
+    "bossData": [
+        {
+            "skinId": 1
+        },
+        {
+            "skinId": 2
+        },
+        {
+            "skinId": 3
+        },
+        {
+            "skinId": 4
+        },
+        {
+            "skinId": 5
+        },
+        {
+            "skinId": 6
+        },
+        {
+            "skinId": 7
+        }
+    ],
+
+    // itemIndex item索引  
+    // itemType 类型 bed床 door门 houseBg房间底 weapon武器 book书 phone手机  repair维修
+    // lv 等级
+    // spriteName 图片名字 
+    // terrainIndex  地形值  0可走 1不可走  10000门
+    // desc 说明
+    "itemData":{
+        "1001":{"itemIndex":"1001","name":"床","itemType":"bed","lv":0,"buildName":"GameBedItem","spriteName":"bed_1","terrainIndex":0,"desc":"","sort":1},
+        "1002":{"itemIndex":"1002","name":"门","itemType":"door","lv":0,"buildName":"GameDoorItem","spriteName":"door_1","terrainIndex":10000,"desc":"","sort":2},
+        "1003":{"itemIndex":"1003","name":"房间底","itemType":"houseBg","lv":0,"buildName":"GameMapItem","spriteName":"","terrainIndex":0,"desc":"","sort":0},
+
+        "1004":{"itemIndex":"1004","name":"弹簧","itemType":"spring","lv":0,"buildName":"GameSpringItem","spriteName":"","terrainIndex":0,"desc":"","sort":1},
+        "1005":{"itemIndex":"1005","name":"boss回血点","itemType":"bossHp","lv":0,"buildName":"GameBossHpItem","spriteName":"","terrainIndex":0,"desc":"","sort":1},
+        "1006":{"itemIndex":"1006","name":"警报灯","itemType":"light","lv":0,"buildName":"GameLightItem","spriteName":"","terrainIndex":0,"desc":"","sort":1},
+        "1007":{"itemIndex":"1007","name":"矿场门","itemType":"kDoor","lv":0,"buildName":"GameKDoorItem","spriteName":"","terrainIndex":10001,"desc":"","sort":1},
+        "1008":{"itemIndex":"1008","name":"营救点","itemType":"save","lv":0,"buildName":"GameSaveItem","spriteName":"","terrainIndex":0,"desc":"","sort":1},
+
+        "1009":{"itemIndex":"1009","name":"重建门","itemType":"repairDoor","lv":0,"buildName":"GameCreateDoorItem","spriteName":"","terrainIndex":0,"desc":"","sort":1},
+
+
+        "2001":{"itemIndex":"2001","name":"防御塔","itemType":"weapon","bossNoMove":1,"lv":0,"buildName":"GamePropItem","spriteName":"weapon_1","terrainIndex":0,"desc":"","sort":1},
+        "2002":{"itemIndex":"2002","name":"书","itemType":"book","bossNoMove":1,"lv":0,"buildName":"GamePropItem","spriteName":"book_1","terrainIndex":0,"desc":""},
+        "2003":{"itemIndex":"2003","name":"手机","itemType":"phone","bossNoMove":1,"lv":0,"buildName":"GamePropItem","spriteName":"phone_1","terrainIndex":0,"desc":"","sort":1},
+
+        "2004":{"itemIndex":"2004","name":"镰刀","itemType":"defense","bossNoMove":1,"lv":0,"buildName":"GameDefenseItem","spriteName":"defense_1","terrainIndex":0,"desc":"","sort":1},
+        "2005":{"itemIndex":"2005","name":"咒术封印","itemType":"defense","bossNoMove":1,"lv":1,"buildName":"GameDefenseItem","spriteName":"defense_2","terrainIndex":0,"desc":"","sort":1},
+        "2006":{"itemIndex":"2006","name":"修复机","itemType":"defense","bossNoMove":1,"lv":2,"buildName":"GameDefenseItem","spriteName":"defense_3","terrainIndex":0,"desc":"","sort":1},
+        "2007":{"itemIndex":"2007","name":"冰箱","itemType":"defense","bossNoMove":1,"lv":3,"buildName":"GameDefenseItem","spriteName":"defense_4","terrainIndex":0,"desc":"","sort":1},
+
+        "2008":{"itemIndex":"2008","name":"麻痹电网","itemType":"attk","bossNoMove":1,"lv":0,"buildName":"GameAttkItem","spriteName":"attk_1","terrainIndex":0,"desc":"","sort":1},
+        "2009":{"itemIndex":"2009","name":"荆棘","itemType":"attk","bossNoMove":1,"lv":1,"buildName":"GameAttkItem","spriteName":"attk_2","terrainIndex":0,"desc":"","sort":1},
+        "2010":{"itemIndex":"2010","name":"速冻光线","itemType":"attk","bossNoMove":1,"lv":2,"buildName":"GameAttkItem","spriteName":"attk_3","terrainIndex":0,"desc":"","sort":1},
+        "2011":{"itemIndex":"2011","name":"致命陷阱","itemType":"attk","bossNoMove":1,"lv":3,"buildName":"GameAttkItem","spriteName":"attk_4","terrainIndex":0,"desc":"","sort":1},
+
+        "2012":{"itemIndex":"2012","name":"麻醉烟雾","itemType":"smoke","lv":0,"buildName":"GameSmokeItem","spriteName":"","terrainIndex":0,"desc":"","sort":1},
+
+        "3001":{"itemIndex":"3001","name":"拆除","itemType":"remove","lv":0,"buildName":"GamePropItem","spriteName":"remove","terrainIndex":0,"desc":""},
+
+        "5001":{"itemIndex":"5001","name":"子弹1","itemType":"bullet","lv":0,"buildName":"Bullet","spriteName":"bullet_1","terrainIndex":0,"desc":""},
+        "5002":{"itemIndex":"5002","name":"子弹2","itemType":"bullet","lv":0,"buildName":"Bullet","spriteName":"bullet_2","terrainIndex":0,"desc":""},
+        "5003":{"itemIndex":"5003","name":"子弹3","itemType":"bullet","lv":0,"buildName":"Bullet","spriteName":"bullet_3","terrainIndex":0,"desc":""},
+        "5004":{"itemIndex":"5004","name":"子弹4","itemType":"bullet","lv":0,"buildName":"Bullet","spriteName":"bullet_4","terrainIndex":0,"desc":""},
+        "5005":{"itemIndex":"5005","name":"子弹5","itemType":"bullet","lv":0,"buildName":"Bullet","spriteName":"bullet_5","terrainIndex":0,"desc":""},
+        "5006":{"itemIndex":"5006","name":"子弹6","itemType":"bullet","lv":0,"buildName":"Bullet","spriteName":"bullet_6","terrainIndex":0,"desc":""},
+        "5007":{"itemIndex":"5007","name":"子弹7","itemType":"bullet","lv":0,"buildName":"Bullet","spriteName":"bullet_7","terrainIndex":0,"desc":""},
+        "5008":{"itemIndex":"5008","name":"子弹8","itemType":"bullet","lv":0,"buildName":"Bullet","spriteName":"bullet_7","terrainIndex":0,"desc":""},
+        "5009":{"itemIndex":"5009","name":"子弹9","itemType":"bullet","lv":0,"buildName":"Bullet","spriteName":"bullet_7","terrainIndex":0,"desc":""},
+        "5010":{"itemIndex":"5010","name":"子弹10","itemType":"bullet","lv":0,"buildName":"Bullet","spriteName":"bullet_10","terrainIndex":0,"desc":""},
+        "5011":{"itemIndex":"5011","name":"子弹11","itemType":"bullet","lv":0,"buildName":"Bullet","spriteName":"bullet_11","terrainIndex":0,"desc":""},
+        "5012":{"itemIndex":"5012","name":"子弹12","itemType":"bullet","lv":0,"buildName":"Bullet","spriteName":"bullet_12","terrainIndex":0,"desc":""},
+        "5013":{"itemIndex":"5013","name":"子弹13","itemType":"bullet","lv":0,"buildName":"Bullet","spriteName":"bullet_13","terrainIndex":0,"desc":""},
+        "5014":{"itemIndex":"5014","name":"子弹14","itemType":"bullet","lv":0,"buildName":"Bullet","spriteName":"bullet_14","terrainIndex":0,"desc":""}
+    },
+
+//     ======================    建筑数据   =============================
+    "propUIData":{
+        "basics":[{"type":"weaponData"},{"type":"bookData"},{"type":"phoneData"}],//基础
+        "defense":[{"type":"defenseData"}],//防御建筑
+        "attk":[{"type":"attkData"}],//攻击建筑
+        "runProp":[{"type":"runPropData"}],//逃跑道具
+        "workShop":[]//工坊
+    },
+
+
+//     ======================    维修升级数据   =============================
+
+    // lv 等级
+    // hp 血量
+    // production 生产数量
+    // cost 升级所需金币 知识
+    // spriteName 图片名字 
+    "repairData":[
+        {"lv":0,"hp":100,"production":2,"cost":{"gold":8},"spriteName":"repair_1"},
+        {"lv":1,"hp":200,"production":4,"cost":{"gold":20},"spriteName":"repair_1"},
+        {"lv":2,"hp":200,"production":8,"cost":{"gold":40},"spriteName":"repair_1"}
+    ],
+
+    "remove": {"lv":0,"name":"拆除","hp":100,"cost":{"gold":8},"spriteName":"remove","itemIndex":"3001","type":"remove","desc":"摧毁当前建筑,并返回一定的资源。"},
+    "level": {"lv":0,"name":"升级","hp":100,"cost":{},"spriteName":"","itemIndex":"1002","type":"level","desc":"免费升级。"},
+
+    //左到右  上到下
+    "mapData":[
+        {"posIndex":[-1,1]},
+        {"posIndex":[-0,1]},
+        {"posIndex":[1,1]},
+        {"posIndex":[-1,0]},
+        {"posIndex":[-0,0]},
+        {"posIndex":[1,0]},
+        {"posIndex":[-1,-1]},
+        {"posIndex":[-0,-1]},
+        {"posIndex":[1,-1]}
+    ]
+}

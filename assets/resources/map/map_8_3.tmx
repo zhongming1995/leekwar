@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="9" height="9" tilewidth="90" tileheight="90" infinite="0" nextlayerid="4" nextobjectid="22">
+ <tileset firstgid="1" name="2" tilewidth="90" tileheight="90" tilecount="100" columns="10">
+  <image source="3.png" trans="ff00ff" width="900" height="900"/>
+ </tileset>
+ <layer id="1" name="地形" width="9" height="9">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYCQRC1GgRogAprcaamAAiPMClA==
+  </data>
+ </layer>
+ <layer id="2" name="障碍" width="9" height="9">
+  <data encoding="base64" compression="zlib">
+   eJxjYCANsENpTjxqVKG0Og79HEAsCOULQ/kcSGaqYtEHA+okqNEHYgMc2BCPflIBAG87AsE=
+  </data>
+ </layer>
+ <objectgroup id="3" name="对象">
+  <object id="2" name="bed" x="360" y="450" width="90" height="90"/>
+  <object id="3" name="map" x="630" y="360" width="90" height="90"/>
+  <object id="4" name="map" x="270" y="360" width="90" height="90"/>
+  <object id="5" name="map" x="360" y="360" width="90" height="90"/>
+  <object id="7" name="map" x="180" y="360" width="90" height="90"/>
+  <object id="9" name="map" x="540" y="450" width="90" height="90"/>
+  <object id="10" name="map" x="450" y="360" width="90" height="90"/>
+  <object id="11" name="map" x="540" y="360" width="90" height="90"/>
+  <object id="12" name="map" x="630" y="450" width="90" height="90"/>
+  <object id="15" name="map" x="450" y="450" width="90" height="90"/>
+  <object id="16" name="map" x="270" y="450" width="90" height="90"/>
+  <object id="17" name="map" x="360" y="180" width="90" height="90">
+   <properties>
+    <property name="weapon" type="int" value="1"/>
+   </properties>
+  </object>
+  <object id="18" name="map" x="360" y="270" width="90" height="90">
+   <properties>
+    <property name="weapon" type="int" value="2"/>
+   </properties>
+  </object>
+  <object id="19" name="spring" x="180" y="450" width="90" height="90">
+   <properties>
+    <property name="direction" value="3"/>
+   </properties>
+  </object>
+  <object id="20" name="spring" x="540" y="630" width="90" height="90">
+   <properties>
+    <property name="direction" value="1"/>
+   </properties>
+  </object>
+  <object id="21" name="door" x="360" y="90" width="90" height="90">
+   <properties>
+    <property name="LorR" type="int" value="1"/>
+    <property name="motion" type="int" value="4"/>
+    <property name="rotate" type="int" value="0"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "Tank",
+  "id": "dbbad60b-e4ac-48fc-a610-e14a2d1bd64f",
+  "version": "2.4.5",
+  "isNew": false
+}

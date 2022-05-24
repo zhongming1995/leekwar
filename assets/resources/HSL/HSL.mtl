@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.Material",
+  "_name": "HSL",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "42eebeee-5b9f-4a63-8979-2d7db7296a47"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "u_dH": 0,
+        "u_dS": 0,
+        "u_dL": 0
+      },
+      "defines": {
+        "USE_TEXTURE": true
+      }
+    }
+  }
+}

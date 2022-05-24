@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="9" height="9" tilewidth="90" tileheight="90" infinite="0" nextlayerid="4" nextobjectid="67">
+ <properties>
+  <property name="LRoR" type="int" value="0"/>
+ </properties>
+ <tileset firstgid="1" name="1" tilewidth="90" tileheight="90" tilecount="100" columns="10">
+  <image source="4.png" trans="ff00ff" width="900" height="900"/>
+ </tileset>
+ <layer id="1" name="地形" width="9" height="9">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYCQR80IxPjl0TEgeWR0xaoixi1g3U4oBQzcB0g==
+  </data>
+ </layer>
+ <layer id="2" name="障碍" width="9" height="9">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAOMAExMxTDAIzPAuXz4NHPR6Q9xAJi7NICYm0ohgEYX4eKbgEAkxQBSQ==
+  </data>
+ </layer>
+ <objectgroup id="3" name="对象">
+  <object id="3" name="coalDoor" x="360" y="90" width="90" height="90">
+   <properties>
+    <property name="LorR" type="int" value="1"/>
+    <property name="id" type="int" value="1"/>
+    <property name="motion" type="int" value="4"/>
+    <property name="rotate" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="9" name="playerPos" x="180" y="180" width="90" height="90"/>
+  <object id="10" name="coal" x="270" y="180" width="90" height="90"/>
+  <object id="11" name="playerPos" x="540" y="180" width="90" height="90"/>
+  <object id="12" name="coal" x="630" y="180" width="90" height="90"/>
+  <object id="13" name="playerPos" x="360" y="270" width="90" height="90"/>
+  <object id="14" name="coal" x="450" y="270" width="90" height="90"/>
+  <object id="15" name="playerPos" x="360" y="360" width="90" height="90"/>
+  <object id="16" name="coal" x="450" y="360" width="90" height="90"/>
+  <object id="17" name="coal" x="270" y="450" width="90" height="90"/>
+  <object id="18" name="playerPos" x="540" y="450" width="90" height="90"/>
+  <object id="19" name="coal" x="630" y="450" width="90" height="90"/>
+  <object id="20" name="playerPos" x="180" y="450" width="90" height="90"/>
+  <object id="21" name="switch" x="270" y="630" width="90" height="90"/>
+  <object id="39" name="switch" x="270" y="0" width="90" height="90"/>
+  <object id="22" name="switch" x="540" y="630" width="90" height="90"/>
+  <object id="40" name="switch" x="540" y="0" width="90" height="90"/>
+  <object id="41" name="light" x="630" y="270" width="90" height="90"/>
+  <object id="42" name="light" x="270" y="270" width="90" height="90"/>
+  <object id="32" name="coalDoor" x="450" y="90" width="90" height="90">
+   <properties>
+    <property name="LorR" type="int" value="2"/>
+    <property name="id" type="int" value="1"/>
+    <property name="motion" type="int" value="2"/>
+    <property name="rotate" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="33" name="coalDoor" x="720" y="270" width="90" height="90">
+   <properties>
+    <property name="LorR" type="int" value="2"/>
+    <property name="id" type="int" value="2"/>
+    <property name="motion" type="int" value="1"/>
+    <property name="rotate" type="int" value="90"/>
+   </properties>
+  </object>
+  <object id="34" name="coalDoor" x="720" y="360" width="90" height="90">
+   <properties>
+    <property name="LorR" type="int" value="1"/>
+    <property name="id" type="int" value="2"/>
+    <property name="motion" type="int" value="3"/>
+    <property name="rotate" type="int" value="90"/>
+   </properties>
+  </object>
+  <object id="35" name="coalDoor" x="90" y="270" width="90" height="90">
+   <properties>
+    <property name="LorR" type="int" value="1"/>
+    <property name="id" type="int" value="4"/>
+    <property name="motion" type="int" value="1"/>
+    <property name="rotate" type="int" value="270"/>
+   </properties>
+  </object>
+  <object id="43" name="map" x="180" y="270" width="90" height="90"/>
+  <object id="44" name="map" x="270" y="360" width="90" height="90"/>
+  <object id="46" name="map" x="630" y="360" width="90" height="90"/>
+  <object id="47" name="map" x="540" y="360" width="90" height="90"/>
+  <object id="48" name="map" x="540" y="270" width="90" height="90"/>
+  <object id="49" name="map" x="450" y="180" width="90" height="90"/>
+  <object id="50" name="map" x="360" y="180" width="90" height="90"/>
+  <object id="51" name="map" x="450" y="450" width="90" height="90"/>
+  <object id="52" name="map" x="360" y="450" width="90" height="90"/>
+  <object id="45" name="map" x="180" y="360" width="90" height="90"/>
+  <object id="36" name="coalDoor" x="90" y="360" width="90" height="90">
+   <properties>
+    <property name="LorR" type="int" value="2"/>
+    <property name="id" type="int" value="4"/>
+    <property name="motion" type="int" value="3"/>
+    <property name="rotate" type="int" value="270"/>
+   </properties>
+  </object>
+  <object id="37" name="coalDoor" x="360" y="540" width="90" height="90">
+   <properties>
+    <property name="LorR" type="int" value="2"/>
+    <property name="id" type="int" value="3"/>
+    <property name="motion" type="int" value="4"/>
+    <property name="rotate" type="int" value="180"/>
+   </properties>
+  </object>
+  <object id="38" name="coalDoor" x="450" y="540" width="90" height="90">
+   <properties>
+    <property name="LorR" type="int" value="1"/>
+    <property name="id" type="int" value="3"/>
+    <property name="motion" type="int" value="2"/>
+    <property name="rotate" type="int" value="180"/>
+   </properties>
+  </object>
+  <object id="53" name="saveSelf" x="450" y="0" width="90" height="90"/>
+  <object id="54" name="saveSelf" x="360" y="0" width="90" height="90"/>
+  <object id="55" name="saveSelf" x="360" y="630" width="90" height="90"/>
+  <object id="56" name="saveSelf" x="450" y="630" width="90" height="90"/>
+  <object id="57" name="saveSelf" x="720" y="630" width="90" height="90"/>
+  <object id="58" name="saveSelf" x="90" y="630" width="90" height="90"/>
+  <object id="59" name="saveSelf" x="630" y="630" width="90" height="90"/>
+  <object id="60" name="saveSelf" x="180" y="630" width="90" height="90"/>
+  <object id="61" name="saveSelf" x="180" y="0" width="90" height="90"/>
+  <object id="64" name="saveSelf" x="90" y="0" width="90" height="90"/>
+  <object id="65" name="saveSelf" x="630" y="0" width="90" height="90"/>
+  <object id="66" name="saveSelf" x="720" y="0" width="90" height="90"/>
+ </objectgroup>
+</map>

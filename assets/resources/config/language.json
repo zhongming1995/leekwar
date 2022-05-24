@@ -1,0 +1,865 @@
+{
+    "请等待boss出现":{
+        "zh":"请等待Boss出现",
+        "en":"Please wait for the Boss"
+    },
+    "富婆通讯录": {
+        "zh": "富婆通讯录",
+        "en": "Rich lady address book"
+    },
+    "如何征服英俊少男": {
+        "zh": "如何征服英俊少男",
+        "en": "How to conquer a handsome boy"
+    },
+    "纯情少女攻略": {
+        "zh": "纯情少女攻略",
+        "en": "Conquer pure girl introduction"
+    },
+    "五块钱如何花三天": {
+        "zh": "五块钱如何花三天",
+        "en": "How do you live on five dollars for three days"
+    },
+    "打工人奋斗史": {
+        "zh": "打工人奋斗史",
+        "en": "worker's biography of the struggle"
+    },
+    "农民进城防骗手册": {
+        "zh": "农民进城防骗手册",
+        "en": "Farmers into the city to prevent fraud handbook"
+    },
+    "如何在KTV出人头地": {
+        "zh": "如何在KTV出人头地",
+        "en": "How to get ahead in KTV"
+    },
+   
+    "为了逃离收割者，请迅速坐上房间电脑桌": {
+        "zh": "为了逃离收割者，请迅速坐上房间电脑桌",
+        "en": "To escape the reapers, please quickly sit at the computer table in your room"
+    },
+    "升级到淘汰电脑桌": {
+        "zh": "升级到淘汰电脑桌",
+        "en": "Up to obsolete computer desk"
+    },
+    "升级到木门xx": {
+        "zh": "升级到木门xx",
+        "en": "Up to Wooden Door lvxx"
+    },
+    "升级到二手电脑桌": {
+        "zh": "升级到二手电脑桌",
+        "en": "Up to Second-hand computer desk"
+    },
+    "升级到简易电脑桌": {
+        "zh": "升级到简易电脑桌",
+        "en": "Up to Portable computer table"
+    },
+    "建造xx个廉价圆珠笔": {
+        "zh": "建造xx个廉价圆珠笔",
+        "en": "Build xx Cheap pens"
+    },
+    "升级到奢华电脑桌": {
+        "zh": "升级到奢华电脑桌",
+        "en": "Luxury computer desk"
+    },
+    "建造xx本富婆通讯录": {
+        "zh": "建造xx本富婆通讯录",
+        "en": "Build xx Rich lady address book"
+    },
+    "升级到xx级防盗门": {
+        "zh": "升级到xx级防盗门",
+        "en": "Up to Iron gate LVxx"
+    },
+    "拥有一个酸甜柠檬茶": {
+        "zh": "拥有一个酸甜柠檬茶",
+        "en": "Build a lemon tea"
+    },
+    "建造一个大哥大": {
+        "zh": "建造一个大哥大",
+        "en": "Build a cell phone"
+    },
+    "队友被抓了，快去地图中央营救队友": {
+        "zh": "队友被抓了，快去地图中央营救队友",
+        "en": "Team members have been captured. Go to the center of the map and rescue them"
+    },
+    "点击按钮提升赏金，激励队友救你": {
+        "zh": "点击按钮提升赏金，激励队友救你",
+        "en": "Click the button to raise the bounty and motivate your teammates to save you"
+    },
+    "防御塔攻击收割者可以获得金币，每次攻击加xx金币": {
+        "zh": "防御塔攻击收割者可以获得金币，每次攻击加xx金币",
+        "en": "Towers attack harvesters to earn gold, plus 1 gold for each attack"
+    },
+    "收割者释放技能时，被禁锢xxs": {
+        "zh": "收割者释放技能时，被禁锢xxs",
+        "en": "The reaper is imprisoned for 3s while casting abilities"
+    },
+    "增加大门回血速度xx%": {
+        "zh": "增加大门回血速度xx%",
+        "en": "Increases portal health regeneration speed by xx%"
+    },
+    "冷冻门，让攻击大门的收割者攻速减慢xx%": {
+        "zh": "冷冻门，让攻击大门的收割者攻速减慢xx%",
+        "en": "Freeze the gate, slowing the attack speed of reapers who attack the gate by xx%"
+    },
+    "收割者攻击门10次会被眩晕一次，持续xxs": {
+        "zh": "收割者攻击门10次会被眩晕一次，持续xxs",
+        "en": "Reapers are dazed once 10 times they hit a gate for xxs"
+    },
+    "收割者攻击门会被反伤xx%": {
+        "zh": "收割者攻击门会被反伤xx%",
+        "en": "Reapers will now take xx% of their damage when they attack doors"
+    },
+    "收割者血量低于xx%触发，冷冻收割者xxs": {
+        "zh": "收割者血量低于xx%触发，冷冻收割者xxs",
+        "en": "Reaper health less than xx% triggered, frozen reaper xxs"
+    },
+    "收割者血量低于xx%触发，直接击杀boss": {
+        "zh": "收割者血量低于xx%触发，直接击杀boss",
+        "en": "When the Reaper health drops below xx%, kill the boss directly"
+    },
+    "装备鞋子快速移动xxs": {
+        "zh": "装备鞋子快速移动xxs",
+        "en": "Equip shoes for quick xxs movement"
+    },
+    "在收割者攻击时触发，抵消一次攻击，并且让收割者眩晕xxs": {
+        "zh": "在收割者攻击时触发，抵消一次攻击，并且让收割者眩晕xxs",
+        "en": "Triggered when the reaper attacks, cancels an attack and stun the reaper for xxs"
+    },
+    "主动触发，使用后隐身xxS，不被收割者追踪和攻击": {
+        "zh": "主动触发，使用后隐身xxS，不被收割者追踪和攻击",
+        "en": "Active trigger, stealth after use for xxS, cannot be tracked or attacked by reapers"
+    },
+    "主动触发释放烟雾，收割者触碰后眩晕xxs": {
+        "zh": "主动触发释放烟雾，收割者触碰后眩晕xxs",
+        "en": "Active trigger releases smoke, reaper is dazed for xxs after touching"
+    },
+    "收割者攻击门xx次会被眩晕一次，持续xxs":{
+        "zh":"收割者攻击门xx次会被眩晕一次，持续xxs",
+        "en":"The reaper attack the door will be dizzy, xx times for xx s"
+    },
+    "共同发育": {
+        "zh": "共同发育",
+        "en": "Common development"
+    },
+    "关注我": {
+        "zh": "关注我",
+        "en": "Pay attention to my"
+    },
+    "王者xx": {
+        "zh": "王者xx",
+        "en": "Kings xx"
+    },
+    "星耀xx": {
+        "zh": "星耀xx",
+        "en": "stars xx"
+    },
+    "钻石xx": {
+        "zh": "钻石xx",
+        "en": "diamonds xx"
+    },
+    "黄金xx": {
+        "zh": "黄金xx",
+        "en": "gold xx"
+    },
+    "白银xx": {
+        "zh": "白银xx",
+        "en": "silver xx"
+    },
+    "青铜xx": {
+        "zh": "青铜xx",
+        "en": "bronze xx"
+    },
+    "摧毁当前建筑,并返回一定的资源。":{
+        "zh":"摧毁当前建筑,并返回一定的资源。",
+        "en":"Destroy the building, and returns the certain resources."
+    },
+    "注意：每局仅可使用一次。救急专用，看完回满血。": {
+        "zh": "注意：每局仅可使用一次。救急专用，看完回满血。",
+        "en": "Note: can only be used once per session.Emergency only, after watching back full blood."
+    },
+    "想翻盘？当救世主？": {
+        "zh": "想翻盘？当救世主？",
+        "en": "Want to come back? Be the savior?"
+    },
+    "纸钞不够了！观看视频免费升级！":
+    {
+        "zh":"纸钞不够了！观看视频免费升级！",
+        "en":"Not enough money!Watch the video for a free upgrade!"
+    },
+    "知识不够了！观看视频免费升级！":{
+        "zh":"知识不够了！观看视频免费升级！",
+        "en":"Not enough knowledge!Watch the video for a upgrade!"
+    },
+    "储藏着对抗收割者的强力道具": {
+        "zh": "储藏着对抗收割者的强力道具",
+        "en": "A store of powerful items against the reapers"
+    },
+    "观看视频免费升级！": {
+        "zh": "观看视频免费升级！",
+        "en": "Not enough money!Watch the video for a upgrade!"
+    },
+    "观看视频可以评分加倍": {
+        "zh": "观看视频可以评分加倍",
+        "en": "Watch the video can score twice"
+    },
+    "观看视频还可以避免减少评分":{
+        "zh": "观看视频还可以避免减少评分",
+        "en": "Watch the video can also avoid reduce the score"
+    },
+    "这是一个关于韭菜巴拉巴拉的":{
+        "zh": "1.这是一个关于韭菜和收割者的故事，请努力逃脱被收割的命运！\n2.韭菜务必在红色倒计时结束前进入房间。\n3.收割者通过收割他人变得更强。\n4.作为韭菜，被收割了其实也不代表游戏结束。\n5.如果所有人都被收割，收割者才会获得胜利！\n6.收割了很多韭菜的收割者异常强大。\n8.成功解救其他韭菜可以获取高额营救奖金。\n9.其实在防御不来的时候可以考虑换个房间。10.趁队友出去营救，坐上他的电脑桌很不道德！",
+        "en":"1. This is a story about leeks and reapers. Please try to escape the fate of being reaped!\n2. Leek must enter the room before the red countdown ends.\n3. The reaper grows stronger by reaping others.\n4. As leeks, being harvested doesn't mean the game is over.\n5. The reapers win if all are reaped!\n6. Reapers who harvest a lot of leeks are exceptionally strong.\n7. Leaving your room is a dangerous business, but at least spring pedals and potions can help.\n8. Successful rescue of other leeks can obtain high rescue bonus.\n9. Consider changing your room if you can't defend yourself.\n10. It's unethical to sit on a teammate's computer desk while he's out rescuing them!"
+    },
+    "公告内容键":{
+        "zh":"We again again again again again again again again again again again again again again again again again again again again update!\n\nThe new content is as follows:\n1. [play five unlock] : don't see video, every time play 5 times the reaper mode and battle royale can permanently unlocked.\n2. [daily gifts] : add our game to the desktop, and into the game can get a reward from the desktop.\n3. [new skin] : have you like of the person came in, everyone must experience the tissue under the skin.\nA new model of forecast\n4.[Done battle royale mode] but not funny, is made of recycled\nDeveloping online mode",
+        "en":"We again again again again again again again again again again again again again again again again again again again again update!\n\nThe new content is as follows:\n1. [play five unlock] : don't see video, every time play 5 times the reaper mode and battle royale can permanently unlocked.\n2. [daily gifts] : add our game to the desktop, and into the game can get a reward from the desktop.\n3. [new skin] : have you like of the person came in, everyone must experience the tissue under the skin.\nA new model of forecast\n4.[Done battle royale mode] but not funny, is made of recycled\nDeveloping online mode"
+    },
+    "赏金增加，收割者变多了": {
+        "zh": "赏金增加，收割者变多了",
+        "en": "Bounty goes up, reaper goes up!"
+    },
+    "全部韭菜被抓，游戏结束": {
+        "zh": "全部韭菜被抓，游戏结束",
+        "en": "All chives caught, the game is over!"
+    },
+    "韭菜被抓，收割者变强了": {
+        "zh": "韭菜被抓，收割者变强了",
+        "en": "leeks are caught, reapers become stronger!"
+    },
+    "感谢助力，快乐币+xx":{
+        "zh":"感谢助力，快乐币 +xx",
+        "en":"Thank you for help, happy coin +xx"
+    },
+    "友好提示": {
+        "zh": "友好提示",
+        "en": "Friendly tips"
+    },
+    "首屏公告内容": {
+        "zh": "       尊敬的玩家您好！本游戏涉及部分恐怖刺激场面，可能会引起身体的不适，未满18岁的未成年人需在家长的监护下进行游戏。同时也建议部分对于刺激、惊吓游戏敏感的人群退出游戏。请仔细阅读本游戏提示并在同意的情况下进入游戏。",
+        "en": "       Dear players, hello! This game involves some scary scenes which may cause physical discomfort. Children under 18 years of age should play under the supervision of parents. At the same time, it is also suggested that some people who are sensitive to exciting and frightening games quit the game. Please read the game tips carefully and enter the game with your consent."
+    },
+    "猥琐发育，别浪！": {
+        "zh": "猥琐发育别浪！",
+        "en": "Obscene development wave!"
+    },
+    "我需要帮助！": {
+        "zh": "我需要帮助！",
+        "en": "I need help!"
+    },
+    "专注发育！": {
+        "zh": "专注发育！",
+        "en": "Focus on growth!"
+    },
+    "放心，有我在！": {
+        "zh": "放心有我在！",
+        "en": "Don't worry, I'm here!"
+    },
+    "全体撤退！": {
+        "zh": "全体撤退！",
+        "en": "All fall back!"
+    },
+    "跟我一起来！": {
+        "zh": "跟我一起来！",
+        "en": "Come with me!"
+    },
+    "救救我！": {
+        "zh": "救救我！",
+        "en": "Help me!"
+    },
+    "韭菜终究无法掌控自己的命运": {
+        "zh": "韭菜终究无法掌控自己的命运",
+        "en": "Leeks can't control their own destiny after all"
+    },
+    "不要你以为，我要我以为": {
+        "zh": "不要你以为，我要我以为",
+        "en": "I don't want you to think. I want me to think"
+    },
+    "都听我的": {
+        "zh": "都听我的",
+        "en": " Do as I say "
+    },
+    "韭菜要具有奉献精神": {
+        "zh": "韭菜要具有奉献精神",
+        "en": "Leeks should have the spirit of dedication."
+    },
+    "不要跟我解释，我想看到结果": {
+        "zh": "不要跟我解释，我想看到结果",
+        "en": "Don't explain it to me. I want to see results."
+    },
+    "为什么没人去煤矿加班？": {
+        "zh": "为什么没人去煤矿加班？",
+        "en": "Why doesn't anyone work overtime in the coal mine?"
+    },
+    "你们真是太闲了": {
+        "zh": "你们真是太闲了",
+        "en": "You guys have too much free time!"
+    },
+    "想要富裕，就得干活": {
+        "zh": "想要富裕，就得干活",
+        "en": "If you want to be rich, you must work."
+    },
+    "在我的煤矿里工作，是你的福气": {
+        "zh": "在我的煤矿里工作，是你的福气",
+        "en": "You should feel lucky to work in my coal mine."
+    },
+    "生活本来就是一场戏剧": {
+        "zh": "生活本来就是一场戏剧",
+        "en": "Life is a drama."
+    },
+    "生活生活，韭菜生下来就得干活": {
+        "zh": "生活生活，韭菜生下来就得干活",
+        "en": "Life, life, leeks are born to work "
+    },
+    "你们都给我去挖煤，为我赚钱": {
+        "zh": "你们都给我去挖煤，为我赚钱",
+        "en": "All of you will dig coal for me and make money for me."
+    },
+    "韭菜，没有思想!成为我的工具": {
+        "zh": "韭菜，没有思想!成为我的工具",
+        "en": "Leek should not think independently, just need to be my tool to make money"
+    },
+    "想反抗我？真是太天真了": {
+        "zh": "想反抗我？真是太天真了",
+        "en": "Trying to stand up to me? You are too weak"
+    },
+    "想要生存下去，只有听从我的安排": {
+        "zh": "想要生存下去，只有听从我的安排",
+        "en": "The only way to survive is to follow my orders"
+    },
+    "为我赚钱，你难道不开心吗？": {
+        "zh": "为我赚钱，你难道不开心吗？",
+        "en": "Aren't you happy to make money for me?"
+    },
+    "目光放长远点，只要努力": {
+        "zh": "目光放长远点，只要努力",
+        "en": "Take the long view and work hard "
+    },
+    "我会给你加工资的": {
+        "zh": "我会给你加工资的",
+        "en": "I'll give you a raise"
+    },
+    "加班是为你们好": {
+        "zh": "加班是为你们好",
+        "en": "Working overtime is for your own good"
+    },
+    "付出一定会有回报的": {
+        "zh": "付出一定会有回报的",
+        "en": "Pay will be rewarded"
+    },
+    "我只要结果不看过程": {
+        "zh": "我只要结果不看过程",
+        "en": "I want the end, not the process"
+    },
+    "全部韭菜被收割，游戏结束":{
+        "zh":"全部韭菜被收割，游戏结束",
+        "en":"All Leeks are harvested, game over"
+    },
+    "被击败了，韭菜胜利！！！":{
+        "zh":"被击败了，韭菜胜利！！！",
+        "en":"was defeated, leeks victory"
+    },
+    "成功解救了": {
+        "zh": "成功解救了",
+        "en": " successfully rescued "
+    },
+    "经验翻倍xxs":{
+        "zh": "经验翻倍xxs",
+        "en": "experience double for xxs"
+    },
+    "，获得了xx赏金": {
+        "zh": "，获得xx赏金",
+        "en": "，obtain xx bounty"
+    },
+    "纸钞和知识产出翻倍xxs": {
+        "zh": "纸钞和知识产出翻倍xxs",
+        "en": "Notes and knowledge output doubled xxs"
+    },
+    "加速剩余": {
+        "zh": "加速剩余",
+        "en": "Speed up remaining "
+    },
+    "经验翻倍xx秒": {
+        "zh": "经验翻倍xx秒",
+        "en": "Double experience xx seconds"
+    },
+    "木门xx级": {
+        "zh": "木门xx级",
+        "en": "wooden door LVxx"
+    },
+    "防盗门xx级": {
+        "zh": "防盗门xx级",
+        "en": "Iron gate LVxx"
+    },
+    "钛合金门xx级": {
+        "zh": "钛合金门xx级",
+        "en": "Titanium alloy door LV1"
+    },
+    "廉价圆珠笔": {
+        "zh": "廉价圆珠笔",
+        "en": "Cheap pens"
+    },
+    "金属圆珠笔": {
+        "zh": "金属圆珠笔",
+        "en": "Premium  pen"
+    },
+    "文件夹": {
+        "zh": "文件夹",
+        "en": "folder"
+    },
+    "厚重文件夹": {
+        "zh": "厚重文件夹",
+        "en": "Heavy folder"
+    },
+    "键盘": {
+        "zh": "键盘",
+        "en": "keyboard"
+    },
+    "酸甜柠檬茶": {
+        "zh": "酸甜柠檬茶",
+        "en": "lemon tea"
+    },
+    "肥宅快乐水": {
+        "zh": "肥宅快乐水",
+        "en": "Coca-Cola"
+    },
+    "桶装水": {
+        "zh": "桶装水",
+        "en": "Bottled water"
+    },
+    "仙人掌": {
+        "zh": "仙人掌",
+        "en": "cactus"
+    },
+    "仙人掌加特林": {
+        "zh": "仙人掌加特林",
+        "en": "Cactus gatlin"
+    },
+    "超级仙人掌加特林": {
+        "zh": "超级仙人掌加特林",
+        "en": "Super cactus Gatling"
+    },
+    "大炮": {
+        "zh": "大炮",
+        "en": "cannon"
+    },
+    "机炮": {
+        "zh": "机炮",
+        "en": "machine gun"
+    },
+    "高能炮塔": {
+        "zh": "高能炮塔",
+        "en": "High-energy turret"
+    },
+    "破旧电脑桌": {
+        "zh": "破旧电脑桌",
+        "en": "Old computer desk"
+    },
+    "淘汰电脑桌": {
+        "zh": "淘汰电脑桌",
+        "en": "Obsolescence of computer desk"
+    },
+    "二手电脑桌": {
+        "zh": "二手电脑桌",
+        "en": "Second-hand computer desk"
+    },
+    "简易电脑桌": {
+        "zh": "简易电脑桌",
+        "en": "Portable computer table"
+    },
+    "普通电脑桌": {
+        "zh": "普通电脑桌",
+        "en": "Ordinary computer desk"
+    },
+    "舒适电脑桌": {
+        "zh": "舒适电脑桌",
+        "en": "Comfortable computer desk"
+    },
+    "高级电脑桌": {
+        "zh": "高级电脑桌",
+        "en": "Advanced computer desk"
+    },
+    "奢华电脑桌": {
+        "zh": "奢华电脑桌",
+        "en": "Luxury computer desk"
+    },
+    "电脑舱": {
+        "zh": "电脑舱",
+        "en": "computer room"
+    },
+    "电脑舱：红龙": {
+        "zh": "电脑舱：红龙",
+        "en": "Computer cabin: Red Dragon"
+    },
+    "电脑舱：天蝎": {
+        "zh": "电脑舱：天蝎",
+        "en": "Computer module: Scorpion"
+    },
+    "大哥大": {
+        "zh": "大哥大",
+        "en": "cell phone"
+    },
+    "诺七亚": {
+        "zh": "诺七亚",
+        "en": "Nokia"
+    },
+    "翻盖手机": {
+        "zh": "翻盖手机",
+        "en": "Flip phone"
+    },
+    "水果手机": {
+        "zh": "水果手机",
+        "en": "Fruit cell phone"
+    },
+    "镰刀": {
+        "zh": "镰刀",
+        "en": "sickle"
+    },
+    "咒术封印": {
+        "zh": "咒术封印",
+        "en": "Spell seal"
+    },
+    "修复机": {
+        "zh": "修复机",
+        "en": "Repair machine"
+    },
+    "冰箱": {
+        "zh": "冰箱",
+        "en": "refrigerator"
+    },
+    "麻痹电网": {
+        "zh": "麻痹电网",
+        "en": "Electric network"
+    },
+    "荆棘": {
+        "zh": "荆棘",
+        "en": "thorns"
+    },
+    "速冻光线": {
+        "zh": "速冻光线",
+        "en": "Frozen light"
+    },
+    "致命陷阱": {
+        "zh": "致命陷阱",
+        "en": "Deadly trap"
+    },
+    "急速鞋": {
+        "zh": "急速鞋",
+        "en": "Rapid shoes"
+    },
+    "金刚盾": {
+        "zh": "金刚盾",
+        "en": "Jin Gangdun"
+    },
+    "隐匿药水": {
+        "zh": "隐匿药水",
+        "en": "hidden potion"
+    },
+    "麻醉烟雾": {
+        "zh": "麻醉烟雾",
+        "en": "Anesthesia smoke"
+    },
+    "匹配中": {
+        "zh": "匹配中",
+        "en": "In the match"
+    },
+    "纸钞": {
+        "zh": "纸钞",
+        "en": "banknotes"
+    },
+    "成功击败收割者": {
+        "zh": "成功击败收割者",
+        "en": "Successfully defeated the Reaper"
+    },
+    "道具贩卖": {
+        "zh": "道具贩卖",
+        "en": "Props sell"
+    },
+    "第xx天":{
+        "zh": "第xx天",
+        "en": "day xx"
+    },
+    "第七天":{
+        "zh": "第七天",
+        "en": "day 7"
+    },
+    "韭菜": {
+        "zh": "韭菜",
+        "en": "leek"
+    },
+    "自己": {
+        "zh": "自己",
+        "en": "oneself"
+    },
+    "段位上升": {
+        "zh": "段位上升",
+        "en": "Paragraph a rise"
+    },
+    "离线收益": {
+        "zh": "离线收益",
+        "en": "Offline earnings"
+    },
+    "反收割者宝箱": {
+        "zh": "反收割者宝箱",
+        "en": "Anti-reaper treasure chest"
+    },
+    "免费升级": {
+        "zh": "免费升级",
+        "en": "free upgrade"
+    },
+    "建筑": {
+        "zh": "建筑",
+        "en": "building"
+    },
+    "开始游戏": {
+        "zh": "开始游戏",
+        "en": "Start the game"
+    },
+    "准备": {
+        "zh": "准备",
+        "en": "prepare"
+    },
+    "知识": {
+        "zh": "知识",
+        "en": "knowledge"
+    },
+    "你失败了！重开吧！": {
+        "zh": "你失败了！重开吧！",
+        "en": "You failed! To restart!"
+    },
+    "拥有数量": {
+        "zh": "拥有数量",
+        "en": "With the number"
+    },
+    "收割者": {
+        "zh": "收割者",
+        "en": "reaper"
+    },
+    "营救赏金": {
+        "zh": "营救赏金",
+        "en": "Rescue the bounty"
+    },
+    "确认": {
+        "zh": "确认",
+        "en": "confirm"
+    },
+    "领取": {
+        "zh": "领取",
+        "en": "receive"
+    },
+    "基本建筑": {
+        "zh": "基本建筑",
+        "en": "basic building"
+    },
+    "免费获得": {
+        "zh": "免费获得",
+        "en": "Free access to"
+    },
+    "营救所有韭菜！": {
+        "zh": "营救所有韭菜！",
+        "en": "Rescue all leeks!"
+    },
+    "收割者模式": {
+        "zh": "收割者模式",
+        "en": "Reaper mode"
+    },
+    "在这站立营救队友": {
+        "zh": "在这站立营救队友",
+        "en": "Stand here to rescue a teammate"
+    },
+    "收割者胜利！": {
+        "zh": "收割者胜利！",
+        "en": "The reapers win!"
+    },
+    "防御道具": {
+        "zh": "防御道具",
+        "en": "Defense props"
+    },
+    "奖励": {
+        "zh": "奖励",
+        "en": "reward"
+    },
+    "三倍领取": {
+        "zh": "三倍领取",
+        "en": "receive×3"
+    },
+    "打开": {
+        "zh": "打开",
+        "en": "Open"
+    },
+    "是": {
+        "zh": "是",
+        "en": "Yes"
+    },
+    "韭菜模式": {
+        "zh": "韭菜模式",
+        "en": "Leek mode"
+    },
+    "挖矿": {
+        "zh": "挖矿",
+        "en": "dig"
+    },
+    "收割失败！": {
+        "zh": "收割失败！",
+        "en": "Harvest failed!"
+    },
+    "攻击道具": {
+        "zh": "攻击道具",
+        "en": "Attack props"
+    },
+    "更换皮肤": {
+        "zh": "更换皮肤",
+        "en": "Change the skin"
+    },
+    "放弃": {
+        "zh": "放弃",
+        "en": "give up"
+    },
+    "否": {
+        "zh": "否",
+        "en": "No"
+    },
+    "使用中": {
+        "zh": "使用中",
+        "en": "In the use"
+    },
+    "视频自救": {
+        "zh": "视频自救",
+        "en": "self-help"
+    },
+    "逃生道具": {
+        "zh": "逃生道具",
+        "en": "Escape props"
+    },
+    "进行中": {
+        "zh": "进行中",
+        "en": "ongoing"
+    },
+    "恭喜获得": {
+        "zh": "恭喜获得",
+        "en": "Congratulations to obtain"
+    },
+    "获取": {
+        "zh": "获取",
+        "en": "obtain"
+    },
+    "矿场升级": {
+        "zh": "矿场升级",
+        "en": "mine upgrade"
+    },
+    "皮肤商店": {
+        "zh": "皮肤商店",
+        "en": "Skin store"
+    },
+    "距离收割者出现": {
+        "zh": "距离收割者出现",
+        "en": "Distance reapers appear"
+    },
+    "经验": {
+        "zh": "经验",
+        "en": "experience"
+    },
+    "购买": {
+        "zh": "购买",
+        "en": "buy"
+    },
+    "成功": {
+        "zh": "成功",
+        "en": "success"
+    },
+    "金钱不足": {
+        "zh": "金钱不足",
+        "en": "Lack of money"
+    },
+    
+    "关闭": {
+        "zh": "关闭",
+        "en": "close"
+    },
+    "继续游戏": {
+        "zh": "继续游戏",
+        "en": "continue"
+    },
+    "返回大厅": {
+        "zh": "返回大厅",
+        "en": "Return to the hall"
+    },
+    "参与奖": {
+        "zh": "参与奖",
+        "en": "Participate in the award"
+    },
+    "游玩xx/xx次后永久解锁":{
+        "zh":"游玩xx/xx次后永久解锁",
+        "en":"play for xx/xx unlock after the video"
+    },
+    "观看视频星星加倍": {
+        "zh": "观看视频星星加倍",
+        "en": "Watch the video double stars"
+    },
+    "xxs后 +xx":{
+        "zh":"xxs后 +xx",
+        "en":"after xxs +xx"
+    },
+    "装备": {
+        "zh": "装备",
+        "en": "equipment"
+    },
+    "矿场LVxx": {
+        "zh": "矿场LVxx",
+        "en": "The mine LVxx"
+    },
+    "你被": {
+        "zh": "你被",
+        "en": "You have been targeted by "
+    },
+    "盯上了，快跑": {
+        "zh": "盯上了，快跑",
+        "en": ",run"
+    },
+    "升级了！ ":{
+        "zh":"升级了!",
+        "en":" upgrade "
+    },
+    "免费":{
+        "zh":"免费",
+        "en":"get"
+    },
+    "攻击力：":{
+        "zh":"攻击力：",
+        "en":"attack:"
+    },
+    "攻击距离：":{
+        "zh":"攻击距离：",
+        "en":"attack distance:"
+    },
+    "拆除获得":{
+        "zh":"Demolition of gain",
+        "en":""
+    },
+    "获得奖励":{
+        "zh":"获得奖励",
+        "en":"get reward"
+    },
+    "血量：":{
+        "zh":"血量:",
+        "en":"hp:"
+    },
+    "拥有数量：":{
+        "zh":"拥有数量：",
+        "en":"owned count:"
+    },
+    "升级需要":{
+        "zh":"升级需要",
+        "en":"upgrade needs"
+    },
+    "生产速度：":{
+        "zh":"生产速度：",
+        "en":"produce speed:"
+    },
+    "拆除":{
+        "zh":"拆除",
+        "en":"demolition"
+    },
+    "你需要":{
+        "zh":"你需要",
+        "en":"you need "
+    }
+}

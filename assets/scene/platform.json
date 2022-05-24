@@ -1,0 +1,121 @@
+{
+    "wechat": {
+        "banner": {
+            "广告1": "adunit-6f62c2f1ab3e328f",
+            "广告2": "adunit-1e3bcfd9d31ee19f",
+            "广告3": "adunit-30ef6eaf0912d764",
+            "广告4": "adunit-e84547b751ed2039",
+            "广告5": "adunit-bfb4d33f1f1a44d1"
+        },
+        "video": {
+            "解锁皮肤": "adunit-85f2e3baec94d9e9",
+            "获得道具": "adunit-ef90d0f04fd72028",
+            "建造": "adunit-e05fdcebc63098c2",
+            "结算视频": "adunit-7fbcbeba886efa1b",
+            "商店视频": "adunit-c363ab9aa31c18e9",
+            "视频自救": "adunit-cef8e7f96e572d66"
+        },
+        "appBox": {
+            "格子": "adunit-ceac798a55e0ad4b",
+            "格子1": "adunit-f10937b9e1e10bee"
+        },
+        "interstitial": {
+            "插屏": "adunit-05eea50e97a03797"
+        },
+        "shareCfg": [
+            {
+                "title": "拒绝躺平，共同发育",
+                "imageUrl": "https://cdn.hanyougame.cn/gtfy/ShareCfg/shareImg/share2.png",
+                "imageUrlId": "3WgfwK8aQgaOQDEmYhWAHA=="
+            },
+            {
+                "title": "快来击败收割者，赢得胜利！",
+                "imageUrl": "https://cdn.hanyougame.cn/gtfy/ShareCfg/shareImg/share1.png",
+                "imageUrlId": "BMEUVMT8QKm1KHCa542dtQ=="
+            }
+        ]
+    },
+    "toutiao": {
+        "banner": {
+            "banner": "fs9c4cik06ca5cg121"
+        },
+        "video": {
+            "解锁皮肤": "ah4c7hqe1il1jcp7oe",
+            "获得道具": "ah4c7hqe1il1jcp7oe",
+            "建造": "ah4c7hqe1il1jcp7oe",
+            "结算视频": "9a77fc2mhhjk12a01h",
+            "商店视频": "9a77fc2mhhjk12a01h",
+            "视频自救": "9a77fc2mhhjk12a01h"
+        },
+        "appBox": {
+            "appBox": "xxx"
+        },
+        "interstitial": {
+            "interstitial": "4v6149ibkhe11g8e5k"
+        },
+        "shareCfg": [
+            {
+                "title": "",
+                "imageUrl": "",
+                "imageUrlId": ""
+            }
+        ]
+    },
+    "oppo": {
+        "banner": {
+            "banner1": "372250",
+            "banner2": "372251",
+            "banner3": "372255",
+            "banner4": "372257",
+            "banner5": "372259"
+        },
+        "video": {
+            "连升三级": "372264",
+            "视频升级": "372263",
+            "三倍签到": "372265",
+            "免费生肉": "372266",
+            "免费金币": "372267",
+            "游戏复活": "372267",
+            "双倍领取": "372267"
+        },
+        "native": {
+            "通用": "372271",
+            "通用1": "372275",
+            "通用2": "372279"
+        },
+        "appBox": {
+            "通用": "372296"
+        },
+        "interstitial": {
+            "interstitial": "xxx"
+        },
+        "shareCfg": []
+    },
+    "vivo": {
+        "banner": {
+            "banner1": "8e764980a3aa4617a00cfeffd0a1ca12",
+            "banner2": "95712eac0a1947e8b652078dfde34819"
+        },
+        "video": {
+            "连升三级": "280ac7b4333947a3a986cb3d4d3e1bc6",
+            "视频升级": "280ac7b4333947a3a986cb3d4d3e1bc6",
+            "三倍签到": "280ac7b4333947a3a986cb3d4d3e1bc6",
+            "免费生肉": "280ac7b4333947a3a986cb3d4d3e1bc6",
+            "免费金币": "280ac7b4333947a3a986cb3d4d3e1bc6",
+            "游戏复活": "280ac7b4333947a3a986cb3d4d3e1bc6",
+            "双倍领取": "280ac7b4333947a3a986cb3d4d3e1bc6"
+        },
+        "native": {
+            "通用": "10bfe2600da54c6ca0504ca9d35a204f",
+            "通用1": "7ed4fee81737436aace80c38b74df348"
+        },
+        "appBox": {
+            "通用": "45b96a15fb0b48509ea87bb6c0c2a7ce"
+        },
+        "interstitial": {
+            "interstitial": "xxx"
+        },
+        "shareCfg": []
+    },
+    "android": {}
+}

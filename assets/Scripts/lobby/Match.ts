@@ -3,6 +3,7 @@ import UIToggle from "../../module/ui/UIToggle";
 import UIWindows from "../../module/ui/UIWindows";
 import Lobby from "../scene/Lobby";
 
+
 const { ccclass, property } = cc._decorator;
 
 @ccclass

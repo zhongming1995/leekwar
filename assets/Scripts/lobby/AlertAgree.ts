@@ -1,4 +1,5 @@
-import UIWindows from "../../module/ui/UIWindows";
+import UIWindows from "../../module/ui/UIWindows"; 
+
 
 const { ccclass, property } = cc._decorator;
 

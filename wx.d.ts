@@ -1,4 +1,5 @@
 interface CanvasContext {
+
   /**
    * 创建一个颜色的渐变点。
    */
